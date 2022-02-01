@@ -1,5 +1,8 @@
 ## Fish CPR task
-Utility code for the research article "Neural basis of common-pool resources exploitation"
+Utility code for the research article: 
+Mine or ours? Neural basis of the exploitation of common-pool resources, by
+Mario Martinez-Saito, Sandra Andraszewicz, Vasily Klucharev, Jörg Rieskamp
+
 MRI data processing (Matlab with SPM) and data analysis (Matlab) files. 
 
 ### Index
